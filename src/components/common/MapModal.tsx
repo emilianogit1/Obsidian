@@ -43,7 +43,7 @@ export function MapModal({ featured, stations, open, onOpenChange }: MapModalPro
         </div>
 
         <p className="text-xs text-muted-foreground text-center pt-1">
-          🔴 Estación destacada &nbsp;·&nbsp; 🔵 Demás estaciones
+          🔵 Estación destacada &nbsp;·&nbsp; 🔴 Otras estaciones
         </p>
       </DialogContent>
     </Dialog>
