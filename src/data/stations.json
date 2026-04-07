@@ -1,0 +1,3172 @@
+[
+  {
+    "Numero": "PL/24409/EXP/ES/2022",
+    "Direccion": "Villalongín 6, Esq. Insurgentes",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.48,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Reforma Villalongín"
+  },
+  {
+    "Numero": "PL/24409/EXP/ES/2022",
+    "Direccion": "Villalongín 6, Esq. Insurgentes",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.89,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Reforma Villalongín"
+  },
+  {
+    "Numero": "PL/24409/EXP/ES/2022",
+    "Direccion": "Villalongín 6, Esq. Insurgentes",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.31,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Reforma Villalongín"
+  },
+  {
+    "Numero": "PL/1000/ES/EXP/ES/2023",
+    "Direccion": "Av. Juárez No. 251, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.0,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 1"
+  },
+  {
+    "Numero": "PL/1000/ES/EXP/ES/2023",
+    "Direccion": "Av. Juárez No. 251, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.11,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 1"
+  },
+  {
+    "Numero": "PL/1000/ES/EXP/ES/2023",
+    "Direccion": "Av. Juárez No. 251, Azcapotzalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.09,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 1"
+  },
+  {
+    "Numero": "PL/1013/ES/EXP/ES/2018",
+    "Direccion": "Calle 16 de Septiembre No. 239, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.59,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Gasolinera Azcapotzalco 2"
+  },
+  {
+    "Numero": "PL/1013/ES/EXP/ES/2018",
+    "Direccion": "Calle 16 de Septiembre No. 239, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.64,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Gasolinera Azcapotzalco 2"
+  },
+  {
+    "Numero": "PL/1013/ES/EXP/ES/2018",
+    "Direccion": "Calle 16 de Septiembre No. 239, Azcapotzalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.54,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Gasolinera Azcapotzalco 2"
+  },
+  {
+    "Numero": "PL/1034/ES/EXP/ES/2020",
+    "Direccion": "Av. Lago Xochimilco No. 349, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.02,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "PEMEX Azcapotzalco 3"
+  },
+  {
+    "Numero": "PL/1034/ES/EXP/ES/2020",
+    "Direccion": "Av. Lago Xochimilco No. 349, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.52,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "PEMEX Azcapotzalco 3"
+  },
+  {
+    "Numero": "PL/1064/AM/AUT/ES/2018",
+    "Direccion": "Av. Morelos No. 827, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.82,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Gasolinera Azcapotzalco 4"
+  },
+  {
+    "Numero": "PL/1064/AM/AUT/ES/2018",
+    "Direccion": "Av. Morelos No. 827, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.28,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Gasolinera Azcapotzalco 4"
+  },
+  {
+    "Numero": "PL/1064/AM/AUT/ES/2018",
+    "Direccion": "Av. Morelos No. 827, Azcapotzalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.87,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Gasolinera Azcapotzalco 4"
+  },
+  {
+    "Numero": "PL/1118/AM/AUT/ES/2023",
+    "Direccion": "Blvd. Adolfo López Mateos No. 47, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.88,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 5"
+  },
+  {
+    "Numero": "PL/1118/AM/AUT/ES/2023",
+    "Direccion": "Blvd. Adolfo López Mateos No. 47, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 5"
+  },
+  {
+    "Numero": "PL/1118/AM/AUT/ES/2023",
+    "Direccion": "Blvd. Adolfo López Mateos No. 47, Azcapotzalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.76,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 5"
+  },
+  {
+    "Numero": "PL/1152/AM/AUT/ES/2021",
+    "Direccion": "Calle Palmas No. 364, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 6"
+  },
+  {
+    "Numero": "PL/1152/AM/AUT/ES/2021",
+    "Direccion": "Calle Palmas No. 364, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.77,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Estación de Servicio Azcapotzalco 6"
+  },
+  {
+    "Numero": "PL/1182/ES/EXP/ES/2023",
+    "Direccion": "Av. Hidalgo No. 168, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.33,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Combustibles Azcapotzalco 7"
+  },
+  {
+    "Numero": "PL/1182/ES/EXP/ES/2023",
+    "Direccion": "Av. Hidalgo No. 168, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.29,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Combustibles Azcapotzalco 7"
+  },
+  {
+    "Numero": "PL/1182/ES/EXP/ES/2023",
+    "Direccion": "Av. Hidalgo No. 168, Azcapotzalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.51,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "Combustibles Azcapotzalco 7"
+  },
+  {
+    "Numero": "PL/1260/ES/EXP/ES/2018",
+    "Direccion": "Av. San Antonio No. 411, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.89,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "PEMEX Azcapotzalco 8"
+  },
+  {
+    "Numero": "PL/1260/ES/EXP/ES/2018",
+    "Direccion": "Av. San Antonio No. 411, Azcapotzalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "PEMEX Azcapotzalco 8"
+  },
+  {
+    "Numero": "PL/1260/ES/EXP/ES/2018",
+    "Direccion": "Av. San Antonio No. 411, Azcapotzalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.6,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 2,
+    "Nombre": "PEMEX Azcapotzalco 8"
+  },
+  {
+    "Numero": "PL/1274/AM/AUT/ES/2021",
+    "Direccion": "Calzada Ignacio Zaragoza No. 272, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.15,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Estación de Servicio Coyoacán 1"
+  },
+  {
+    "Numero": "PL/1274/AM/AUT/ES/2021",
+    "Direccion": "Calzada Ignacio Zaragoza No. 272, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.54,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Estación de Servicio Coyoacán 1"
+  },
+  {
+    "Numero": "PL/1274/AM/AUT/ES/2021",
+    "Direccion": "Calzada Ignacio Zaragoza No. 272, Coyoacán",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.55,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Estación de Servicio Coyoacán 1"
+  },
+  {
+    "Numero": "PL/1342/AM/AUT/ES/2021",
+    "Direccion": "Av. Canal de Garay No. 522, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.93,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 2"
+  },
+  {
+    "Numero": "PL/1380/ES/EXP/ES/2023",
+    "Direccion": "Blvd. Adolfo López Mateos No. 395, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.63,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 3"
+  },
+  {
+    "Numero": "PL/1380/ES/EXP/ES/2023",
+    "Direccion": "Blvd. Adolfo López Mateos No. 395, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.01,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 3"
+  },
+  {
+    "Numero": "PL/1380/ES/EXP/ES/2023",
+    "Direccion": "Blvd. Adolfo López Mateos No. 395, Coyoacán",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 3"
+  },
+  {
+    "Numero": "PL/1444/ES/EXP/ES/2023",
+    "Direccion": "Av. Juárez No. 788, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.96,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "PEMEX Coyoacán 4"
+  },
+  {
+    "Numero": "PL/1444/ES/EXP/ES/2023",
+    "Direccion": "Av. Juárez No. 788, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.64,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "PEMEX Coyoacán 4"
+  },
+  {
+    "Numero": "PL/1444/ES/EXP/ES/2023",
+    "Direccion": "Av. Juárez No. 788, Coyoacán",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.34,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "PEMEX Coyoacán 4"
+  },
+  {
+    "Numero": "PL/1522/ES/EXP/ES/2020",
+    "Direccion": "Av. Tasqueña No. 892, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.98,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "PEMEX Coyoacán 5"
+  },
+  {
+    "Numero": "PL/1522/ES/EXP/ES/2020",
+    "Direccion": "Av. Tasqueña No. 892, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.28,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "PEMEX Coyoacán 5"
+  },
+  {
+    "Numero": "PL/1522/ES/EXP/ES/2020",
+    "Direccion": "Av. Tasqueña No. 892, Coyoacán",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.64,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "PEMEX Coyoacán 5"
+  },
+  {
+    "Numero": "PL/1596/ES/EXP/ES/2022",
+    "Direccion": "Calzada Acoxpa No. 20, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Gasolinera Coyoacán 6"
+  },
+  {
+    "Numero": "PL/1596/ES/EXP/ES/2022",
+    "Direccion": "Calzada Acoxpa No. 20, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.35,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Gasolinera Coyoacán 6"
+  },
+  {
+    "Numero": "PL/1647/ES/EXP/ES/2018",
+    "Direccion": "Periférico Sur No. 750, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.94,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 7"
+  },
+  {
+    "Numero": "PL/1647/ES/EXP/ES/2018",
+    "Direccion": "Periférico Sur No. 750, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 7"
+  },
+  {
+    "Numero": "PL/1667/AM/AUT/ES/2023",
+    "Direccion": "Av. Oceanía No. 272, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.15,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 8"
+  },
+  {
+    "Numero": "PL/1667/AM/AUT/ES/2023",
+    "Direccion": "Av. Oceanía No. 272, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.28,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 8"
+  },
+  {
+    "Numero": "PL/1667/AM/AUT/ES/2023",
+    "Direccion": "Av. Oceanía No. 272, Coyoacán",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.36,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Combustibles Coyoacán 8"
+  },
+  {
+    "Numero": "PL/1747/AM/AUT/ES/2021",
+    "Direccion": "Av. Tláhuac No. 124, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.11,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Estación de Servicio Coyoacán 9"
+  },
+  {
+    "Numero": "PL/1747/AM/AUT/ES/2021",
+    "Direccion": "Av. Tláhuac No. 124, Coyoacán",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 3,
+    "Nombre": "Estación de Servicio Coyoacán 9"
+  },
+  {
+    "Numero": "PL/1813/ES/EXP/ES/2019",
+    "Direccion": "Av. Universidad No. 235, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Gasolinera Cuajimalpa de Morelos 1"
+  },
+  {
+    "Numero": "PL/1813/ES/EXP/ES/2019",
+    "Direccion": "Av. Universidad No. 235, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Gasolinera Cuajimalpa de Morelos 1"
+  },
+  {
+    "Numero": "PL/1832/AM/AUT/ES/2023",
+    "Direccion": "Av. Canal de Garay No. 741, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.14,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Combustibles Cuajimalpa de Morelos 2"
+  },
+  {
+    "Numero": "PL/1832/AM/AUT/ES/2023",
+    "Direccion": "Av. Canal de Garay No. 741, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.75,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Combustibles Cuajimalpa de Morelos 2"
+  },
+  {
+    "Numero": "PL/1869/AM/AUT/ES/2023",
+    "Direccion": "Av. Lago Xochimilco No. 421, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.01,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Combustibles Cuajimalpa de Morelos 3"
+  },
+  {
+    "Numero": "PL/1869/AM/AUT/ES/2023",
+    "Direccion": "Av. Lago Xochimilco No. 421, Cuajimalpa de Morelos",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Combustibles Cuajimalpa de Morelos 3"
+  },
+  {
+    "Numero": "PL/1924/AM/AUT/ES/2018",
+    "Direccion": "Av. Tasqueña No. 255, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Estación de Servicio Cuajimalpa de Morelos 4"
+  },
+  {
+    "Numero": "PL/1924/AM/AUT/ES/2018",
+    "Direccion": "Av. Tasqueña No. 255, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.7,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Estación de Servicio Cuajimalpa de Morelos 4"
+  },
+  {
+    "Numero": "PL/1977/ES/EXP/ES/2019",
+    "Direccion": "Av. Tasqueña No. 52, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Gasolinera Cuajimalpa de Morelos 5"
+  },
+  {
+    "Numero": "PL/1977/ES/EXP/ES/2019",
+    "Direccion": "Av. Tasqueña No. 52, Cuajimalpa de Morelos",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.43,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 4,
+    "Nombre": "Gasolinera Cuajimalpa de Morelos 5"
+  },
+  {
+    "Numero": "PL/2043/AM/AUT/ES/2021",
+    "Direccion": "Av. Observatorio No. 925, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.03,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 1"
+  },
+  {
+    "Numero": "PL/2043/AM/AUT/ES/2021",
+    "Direccion": "Av. Observatorio No. 925, Gustavo A. Madero",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.46,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 1"
+  },
+  {
+    "Numero": "PL/2080/AM/AUT/ES/2021",
+    "Direccion": "Calzada Acoxpa No. 159, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.22,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 2"
+  },
+  {
+    "Numero": "PL/2080/AM/AUT/ES/2021",
+    "Direccion": "Calzada Acoxpa No. 159, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.09,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 2"
+  },
+  {
+    "Numero": "PL/2080/AM/AUT/ES/2021",
+    "Direccion": "Calzada Acoxpa No. 159, Gustavo A. Madero",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.47,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 2"
+  },
+  {
+    "Numero": "PL/2144/ES/EXP/ES/2018",
+    "Direccion": "Av. Oceanía No. 59, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 3"
+  },
+  {
+    "Numero": "PL/2215/AM/AUT/ES/2019",
+    "Direccion": "Av. Hidalgo No. 593, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.67,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 4"
+  },
+  {
+    "Numero": "PL/2215/AM/AUT/ES/2019",
+    "Direccion": "Av. Hidalgo No. 593, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.55,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 4"
+  },
+  {
+    "Numero": "PL/2215/AM/AUT/ES/2019",
+    "Direccion": "Av. Hidalgo No. 593, Gustavo A. Madero",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 4"
+  },
+  {
+    "Numero": "PL/2240/AM/AUT/ES/2019",
+    "Direccion": "Av. Morelos No. 406, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 5"
+  },
+  {
+    "Numero": "PL/2240/AM/AUT/ES/2019",
+    "Direccion": "Av. Morelos No. 406, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.21,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 5"
+  },
+  {
+    "Numero": "PL/2240/AM/AUT/ES/2019",
+    "Direccion": "Av. Morelos No. 406, Gustavo A. Madero",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.31,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 5"
+  },
+  {
+    "Numero": "PL/2280/ES/EXP/ES/2021",
+    "Direccion": "Calle 16 de Septiembre No. 519, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "PEMEX Gustavo A. Madero 6"
+  },
+  {
+    "Numero": "PL/2280/ES/EXP/ES/2021",
+    "Direccion": "Calle 16 de Septiembre No. 519, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.09,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "PEMEX Gustavo A. Madero 6"
+  },
+  {
+    "Numero": "PL/2299/ES/EXP/ES/2020",
+    "Direccion": "Calzada de la Viga No. 627, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 7"
+  },
+  {
+    "Numero": "PL/2299/ES/EXP/ES/2020",
+    "Direccion": "Calzada de la Viga No. 627, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.14,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 7"
+  },
+  {
+    "Numero": "PL/2365/AM/AUT/ES/2019",
+    "Direccion": "Av. Tasqueña No. 761, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 8"
+  },
+  {
+    "Numero": "PL/2365/AM/AUT/ES/2019",
+    "Direccion": "Av. Tasqueña No. 761, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.26,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Estación de Servicio Gustavo A. Madero 8"
+  },
+  {
+    "Numero": "PL/2389/AM/AUT/ES/2023",
+    "Direccion": "Calzada Acoxpa No. 258, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.93,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 9"
+  },
+  {
+    "Numero": "PL/2389/AM/AUT/ES/2023",
+    "Direccion": "Calzada Acoxpa No. 258, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.35,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Gasolinera Gustavo A. Madero 9"
+  },
+  {
+    "Numero": "PL/2463/AM/AUT/ES/2019",
+    "Direccion": "Av. Tláhuac No. 565, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.59,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Combustibles Gustavo A. Madero 10"
+  },
+  {
+    "Numero": "PL/2463/AM/AUT/ES/2019",
+    "Direccion": "Av. Tláhuac No. 565, Gustavo A. Madero",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.01,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Combustibles Gustavo A. Madero 10"
+  },
+  {
+    "Numero": "PL/2463/AM/AUT/ES/2019",
+    "Direccion": "Av. Tláhuac No. 565, Gustavo A. Madero",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.24,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 5,
+    "Nombre": "Combustibles Gustavo A. Madero 10"
+  },
+  {
+    "Numero": "PL/2493/AM/AUT/ES/2018",
+    "Direccion": "Calzada Ignacio Zaragoza No. 441, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Estación de Servicio Iztacalco 1"
+  },
+  {
+    "Numero": "PL/2493/AM/AUT/ES/2018",
+    "Direccion": "Calzada Ignacio Zaragoza No. 441, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.26,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Estación de Servicio Iztacalco 1"
+  },
+  {
+    "Numero": "PL/2493/AM/AUT/ES/2018",
+    "Direccion": "Calzada Ignacio Zaragoza No. 441, Iztacalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.4,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Estación de Servicio Iztacalco 1"
+  },
+  {
+    "Numero": "PL/2573/ES/EXP/ES/2020",
+    "Direccion": "Av. Tasqueña No. 363, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Combustibles Iztacalco 2"
+  },
+  {
+    "Numero": "PL/2573/ES/EXP/ES/2020",
+    "Direccion": "Av. Tasqueña No. 363, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.55,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Combustibles Iztacalco 2"
+  },
+  {
+    "Numero": "PL/2614/ES/EXP/ES/2019",
+    "Direccion": "Av. Revolución No. 184, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.9,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "PEMEX Iztacalco 3"
+  },
+  {
+    "Numero": "PL/2614/ES/EXP/ES/2019",
+    "Direccion": "Av. Revolución No. 184, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.9,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "PEMEX Iztacalco 3"
+  },
+  {
+    "Numero": "PL/2614/ES/EXP/ES/2019",
+    "Direccion": "Av. Revolución No. 184, Iztacalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.65,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "PEMEX Iztacalco 3"
+  },
+  {
+    "Numero": "PL/2676/ES/EXP/ES/2019",
+    "Direccion": "Calzada de Tlalpan No. 880, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.11,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Combustibles Iztacalco 4"
+  },
+  {
+    "Numero": "PL/2676/ES/EXP/ES/2019",
+    "Direccion": "Calzada de Tlalpan No. 880, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.8,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Combustibles Iztacalco 4"
+  },
+  {
+    "Numero": "PL/2734/ES/EXP/ES/2019",
+    "Direccion": "Calle 8 No. 409, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.19,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "PEMEX Iztacalco 5"
+  },
+  {
+    "Numero": "PL/2734/ES/EXP/ES/2019",
+    "Direccion": "Calle 8 No. 409, Iztacalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.04,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "PEMEX Iztacalco 5"
+  },
+  {
+    "Numero": "PL/2747/AM/AUT/ES/2022",
+    "Direccion": "Av. División del Norte No. 962, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.96,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Gasolinera Iztacalco 6"
+  },
+  {
+    "Numero": "PL/2747/AM/AUT/ES/2022",
+    "Direccion": "Av. División del Norte No. 962, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.23,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Gasolinera Iztacalco 6"
+  },
+  {
+    "Numero": "PL/2747/AM/AUT/ES/2022",
+    "Direccion": "Av. División del Norte No. 962, Iztacalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.73,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Gasolinera Iztacalco 6"
+  },
+  {
+    "Numero": "PL/2825/AM/AUT/ES/2018",
+    "Direccion": "Av. San Antonio No. 447, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.34,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Gasolinera Iztacalco 7"
+  },
+  {
+    "Numero": "PL/2825/AM/AUT/ES/2018",
+    "Direccion": "Av. San Antonio No. 447, Iztacalco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.72,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Gasolinera Iztacalco 7"
+  },
+  {
+    "Numero": "PL/2825/AM/AUT/ES/2018",
+    "Direccion": "Av. San Antonio No. 447, Iztacalco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.84,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 6,
+    "Nombre": "Gasolinera Iztacalco 7"
+  },
+  {
+    "Numero": "PL/2879/ES/EXP/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 72, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.67,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 1"
+  },
+  {
+    "Numero": "PL/2879/ES/EXP/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 72, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 1"
+  },
+  {
+    "Numero": "PL/2879/ES/EXP/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 72, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.68,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 1"
+  },
+  {
+    "Numero": "PL/2935/AM/AUT/ES/2023",
+    "Direccion": "Av. Observatorio No. 714, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.58,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 2"
+  },
+  {
+    "Numero": "PL/2935/AM/AUT/ES/2023",
+    "Direccion": "Av. Observatorio No. 714, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.58,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 2"
+  },
+  {
+    "Numero": "PL/2935/AM/AUT/ES/2023",
+    "Direccion": "Av. Observatorio No. 714, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.83,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 2"
+  },
+  {
+    "Numero": "PL/2986/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 312, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.09,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 3"
+  },
+  {
+    "Numero": "PL/2986/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 312, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.0,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 3"
+  },
+  {
+    "Numero": "PL/3047/AM/AUT/ES/2021",
+    "Direccion": "Av. Gran Canal No. 813, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.72,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 4"
+  },
+  {
+    "Numero": "PL/3047/AM/AUT/ES/2021",
+    "Direccion": "Av. Gran Canal No. 813, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.72,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 4"
+  },
+  {
+    "Numero": "PL/3047/AM/AUT/ES/2021",
+    "Direccion": "Av. Gran Canal No. 813, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.31,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 4"
+  },
+  {
+    "Numero": "PL/3084/AM/AUT/ES/2019",
+    "Direccion": "Calle 8 No. 151, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Gasolinera Iztapalapa 5"
+  },
+  {
+    "Numero": "PL/3084/AM/AUT/ES/2019",
+    "Direccion": "Calle 8 No. 151, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.78,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Gasolinera Iztapalapa 5"
+  },
+  {
+    "Numero": "PL/3084/AM/AUT/ES/2019",
+    "Direccion": "Calle 8 No. 151, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.82,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Gasolinera Iztapalapa 5"
+  },
+  {
+    "Numero": "PL/3122/ES/EXP/ES/2023",
+    "Direccion": "Calzada Acoxpa No. 410, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.01,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 6"
+  },
+  {
+    "Numero": "PL/3122/ES/EXP/ES/2023",
+    "Direccion": "Calzada Acoxpa No. 410, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.35,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 6"
+  },
+  {
+    "Numero": "PL/3122/ES/EXP/ES/2023",
+    "Direccion": "Calzada Acoxpa No. 410, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.4,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 6"
+  },
+  {
+    "Numero": "PL/3181/ES/EXP/ES/2021",
+    "Direccion": "Periférico Oriente No. 52, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.08,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 7"
+  },
+  {
+    "Numero": "PL/3181/ES/EXP/ES/2021",
+    "Direccion": "Periférico Oriente No. 52, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.28,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 7"
+  },
+  {
+    "Numero": "PL/3181/ES/EXP/ES/2021",
+    "Direccion": "Periférico Oriente No. 52, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.11,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 7"
+  },
+  {
+    "Numero": "PL/3213/AM/AUT/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 851, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.06,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 8"
+  },
+  {
+    "Numero": "PL/3213/AM/AUT/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 851, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.77,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 8"
+  },
+  {
+    "Numero": "PL/3279/AM/AUT/ES/2019",
+    "Direccion": "Calzada Acoxpa No. 642, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 9"
+  },
+  {
+    "Numero": "PL/3355/AM/AUT/ES/2020",
+    "Direccion": "Periférico Sur No. 142, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.12,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 10"
+  },
+  {
+    "Numero": "PL/3355/AM/AUT/ES/2020",
+    "Direccion": "Periférico Sur No. 142, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Estación de Servicio Iztapalapa 10"
+  },
+  {
+    "Numero": "PL/3405/AM/AUT/ES/2021",
+    "Direccion": "Periférico Oriente No. 426, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.09,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Gasolinera Iztapalapa 11"
+  },
+  {
+    "Numero": "PL/3405/AM/AUT/ES/2021",
+    "Direccion": "Periférico Oriente No. 426, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.45,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Gasolinera Iztapalapa 11"
+  },
+  {
+    "Numero": "PL/3405/AM/AUT/ES/2021",
+    "Direccion": "Periférico Oriente No. 426, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.29,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Gasolinera Iztapalapa 11"
+  },
+  {
+    "Numero": "PL/3484/AM/AUT/ES/2022",
+    "Direccion": "Av. Insurgentes No. 966, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.22,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 12"
+  },
+  {
+    "Numero": "PL/3484/AM/AUT/ES/2022",
+    "Direccion": "Av. Insurgentes No. 966, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.56,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 12"
+  },
+  {
+    "Numero": "PL/3484/AM/AUT/ES/2022",
+    "Direccion": "Av. Insurgentes No. 966, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.26,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "PEMEX Iztapalapa 12"
+  },
+  {
+    "Numero": "PL/3555/ES/EXP/ES/2023",
+    "Direccion": "Av. México No. 280, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.48,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 13"
+  },
+  {
+    "Numero": "PL/3555/ES/EXP/ES/2023",
+    "Direccion": "Av. México No. 280, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.48,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 13"
+  },
+  {
+    "Numero": "PL/3555/ES/EXP/ES/2023",
+    "Direccion": "Av. México No. 280, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.7,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 13"
+  },
+  {
+    "Numero": "PL/3627/ES/EXP/ES/2021",
+    "Direccion": "Av. Revolución No. 929, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.63,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 14"
+  },
+  {
+    "Numero": "PL/3627/ES/EXP/ES/2021",
+    "Direccion": "Av. Revolución No. 929, Iztapalapa",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.76,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 14"
+  },
+  {
+    "Numero": "PL/3627/ES/EXP/ES/2021",
+    "Direccion": "Av. Revolución No. 929, Iztapalapa",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.0,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 7,
+    "Nombre": "Combustibles Iztapalapa 14"
+  },
+  {
+    "Numero": "PL/3705/ES/EXP/ES/2019",
+    "Direccion": "Av. Patriotismo No. 336, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.44,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 1"
+  },
+  {
+    "Numero": "PL/3705/ES/EXP/ES/2019",
+    "Direccion": "Av. Patriotismo No. 336, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.76,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 1"
+  },
+  {
+    "Numero": "PL/3748/AM/AUT/ES/2021",
+    "Direccion": "Av. Gran Canal No. 20, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.2,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Gasolinera La Magdalena Contreras 2"
+  },
+  {
+    "Numero": "PL/3748/AM/AUT/ES/2021",
+    "Direccion": "Av. Gran Canal No. 20, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Gasolinera La Magdalena Contreras 2"
+  },
+  {
+    "Numero": "PL/3748/AM/AUT/ES/2021",
+    "Direccion": "Av. Gran Canal No. 20, La Magdalena Contreras",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.35,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Gasolinera La Magdalena Contreras 2"
+  },
+  {
+    "Numero": "PL/3768/ES/EXP/ES/2018",
+    "Direccion": "Av. Revolución No. 637, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.13,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 3"
+  },
+  {
+    "Numero": "PL/3768/ES/EXP/ES/2018",
+    "Direccion": "Av. Revolución No. 637, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.3,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 3"
+  },
+  {
+    "Numero": "PL/3768/ES/EXP/ES/2018",
+    "Direccion": "Av. Revolución No. 637, La Magdalena Contreras",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 3"
+  },
+  {
+    "Numero": "PL/3803/AM/AUT/ES/2020",
+    "Direccion": "Av. Ermita Iztapalapa No. 797, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.15,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 4"
+  },
+  {
+    "Numero": "PL/3803/AM/AUT/ES/2020",
+    "Direccion": "Av. Ermita Iztapalapa No. 797, La Magdalena Contreras",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.19,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 8,
+    "Nombre": "Estación de Servicio La Magdalena Contreras 4"
+  },
+  {
+    "Numero": "PL/3834/AM/AUT/ES/2023",
+    "Direccion": "Calle 8 No. 78, Milpa Alta",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.94,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "Estación de Servicio Milpa Alta 1"
+  },
+  {
+    "Numero": "PL/3834/AM/AUT/ES/2023",
+    "Direccion": "Calle 8 No. 78, Milpa Alta",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.22,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "Estación de Servicio Milpa Alta 1"
+  },
+  {
+    "Numero": "PL/3834/AM/AUT/ES/2023",
+    "Direccion": "Calle 8 No. 78, Milpa Alta",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.56,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "Estación de Servicio Milpa Alta 1"
+  },
+  {
+    "Numero": "PL/3894/ES/EXP/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 678, Milpa Alta",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.9,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "PEMEX Milpa Alta 2"
+  },
+  {
+    "Numero": "PL/3894/ES/EXP/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 678, Milpa Alta",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 24.92,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "PEMEX Milpa Alta 2"
+  },
+  {
+    "Numero": "PL/3894/ES/EXP/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 678, Milpa Alta",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.89,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "PEMEX Milpa Alta 2"
+  },
+  {
+    "Numero": "PL/3948/AM/AUT/ES/2021",
+    "Direccion": "Calzada Ignacio Zaragoza No. 446, Milpa Alta",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.83,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "Estación de Servicio Milpa Alta 3"
+  },
+  {
+    "Numero": "PL/3948/AM/AUT/ES/2021",
+    "Direccion": "Calzada Ignacio Zaragoza No. 446, Milpa Alta",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.24,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "Estación de Servicio Milpa Alta 3"
+  },
+  {
+    "Numero": "PL/3948/AM/AUT/ES/2021",
+    "Direccion": "Calzada Ignacio Zaragoza No. 446, Milpa Alta",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.87,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 9,
+    "Nombre": "Estación de Servicio Milpa Alta 3"
+  },
+  {
+    "Numero": "PL/4016/AM/AUT/ES/2021",
+    "Direccion": "Av. Juárez No. 331, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.96,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 1"
+  },
+  {
+    "Numero": "PL/4016/AM/AUT/ES/2021",
+    "Direccion": "Av. Juárez No. 331, Álvaro Obregón",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.7,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 1"
+  },
+  {
+    "Numero": "PL/4081/AM/AUT/ES/2021",
+    "Direccion": "Av. Revolución No. 507, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.05,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "PEMEX Álvaro Obregón 2"
+  },
+  {
+    "Numero": "PL/4081/AM/AUT/ES/2021",
+    "Direccion": "Av. Revolución No. 507, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.25,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "PEMEX Álvaro Obregón 2"
+  },
+  {
+    "Numero": "PL/4134/AM/AUT/ES/2022",
+    "Direccion": "Calle 8 No. 88, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.81,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 3"
+  },
+  {
+    "Numero": "PL/4134/AM/AUT/ES/2022",
+    "Direccion": "Calle 8 No. 88, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.95,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 3"
+  },
+  {
+    "Numero": "PL/4134/AM/AUT/ES/2022",
+    "Direccion": "Calle 8 No. 88, Álvaro Obregón",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.96,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 3"
+  },
+  {
+    "Numero": "PL/4145/AM/AUT/ES/2021",
+    "Direccion": "Periférico Sur No. 302, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.37,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 4"
+  },
+  {
+    "Numero": "PL/4145/AM/AUT/ES/2021",
+    "Direccion": "Periférico Sur No. 302, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.37,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 4"
+  },
+  {
+    "Numero": "PL/4145/AM/AUT/ES/2021",
+    "Direccion": "Periférico Sur No. 302, Álvaro Obregón",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.42,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Estación de Servicio Álvaro Obregón 4"
+  },
+  {
+    "Numero": "PL/4157/AM/AUT/ES/2020",
+    "Direccion": "Av. División del Norte No. 361, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Combustibles Álvaro Obregón 5"
+  },
+  {
+    "Numero": "PL/4157/AM/AUT/ES/2020",
+    "Direccion": "Av. División del Norte No. 361, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.36,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Combustibles Álvaro Obregón 5"
+  },
+  {
+    "Numero": "PL/4237/ES/EXP/ES/2018",
+    "Direccion": "Calle 16 de Septiembre No. 757, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.19,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Combustibles Álvaro Obregón 6"
+  },
+  {
+    "Numero": "PL/4237/ES/EXP/ES/2018",
+    "Direccion": "Calle 16 de Septiembre No. 757, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.33,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Combustibles Álvaro Obregón 6"
+  },
+  {
+    "Numero": "PL/4237/ES/EXP/ES/2018",
+    "Direccion": "Calle 16 de Septiembre No. 757, Álvaro Obregón",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.67,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Combustibles Álvaro Obregón 6"
+  },
+  {
+    "Numero": "PL/4271/AM/AUT/ES/2019",
+    "Direccion": "Calle Palmas No. 184, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.82,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "PEMEX Álvaro Obregón 7"
+  },
+  {
+    "Numero": "PL/4271/AM/AUT/ES/2019",
+    "Direccion": "Calle Palmas No. 184, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.23,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "PEMEX Álvaro Obregón 7"
+  },
+  {
+    "Numero": "PL/4271/AM/AUT/ES/2019",
+    "Direccion": "Calle Palmas No. 184, Álvaro Obregón",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.87,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "PEMEX Álvaro Obregón 7"
+  },
+  {
+    "Numero": "PL/4310/ES/EXP/ES/2023",
+    "Direccion": "Av. Tasqueña No. 894, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.6,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Gasolinera Álvaro Obregón 8"
+  },
+  {
+    "Numero": "PL/4310/ES/EXP/ES/2023",
+    "Direccion": "Av. Tasqueña No. 894, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.26,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Gasolinera Álvaro Obregón 8"
+  },
+  {
+    "Numero": "PL/4382/AM/AUT/ES/2018",
+    "Direccion": "Av. Ermita Iztapalapa No. 842, Álvaro Obregón",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.36,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Gasolinera Álvaro Obregón 9"
+  },
+  {
+    "Numero": "PL/4382/AM/AUT/ES/2018",
+    "Direccion": "Av. Ermita Iztapalapa No. 842, Álvaro Obregón",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.91,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 10,
+    "Nombre": "Gasolinera Álvaro Obregón 9"
+  },
+  {
+    "Numero": "PL/4453/AM/AUT/ES/2019",
+    "Direccion": "Av. Hidalgo No. 122, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.65,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Combustibles Tláhuac 1"
+  },
+  {
+    "Numero": "PL/4453/AM/AUT/ES/2019",
+    "Direccion": "Av. Hidalgo No. 122, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Combustibles Tláhuac 1"
+  },
+  {
+    "Numero": "PL/4453/AM/AUT/ES/2019",
+    "Direccion": "Av. Hidalgo No. 122, Tláhuac",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.6,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Combustibles Tláhuac 1"
+  },
+  {
+    "Numero": "PL/4473/AM/AUT/ES/2021",
+    "Direccion": "Calzada de la Viga No. 583, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.65,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Gasolinera Tláhuac 2"
+  },
+  {
+    "Numero": "PL/4473/AM/AUT/ES/2021",
+    "Direccion": "Calzada de la Viga No. 583, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Gasolinera Tláhuac 2"
+  },
+  {
+    "Numero": "PL/4537/AM/AUT/ES/2019",
+    "Direccion": "Av. Oceanía No. 246, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.57,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Estación de Servicio Tláhuac 3"
+  },
+  {
+    "Numero": "PL/4537/AM/AUT/ES/2019",
+    "Direccion": "Av. Oceanía No. 246, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Estación de Servicio Tláhuac 3"
+  },
+  {
+    "Numero": "PL/4537/AM/AUT/ES/2019",
+    "Direccion": "Av. Oceanía No. 246, Tláhuac",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.54,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Estación de Servicio Tláhuac 3"
+  },
+  {
+    "Numero": "PL/4557/ES/EXP/ES/2018",
+    "Direccion": "Blvd. Puerto Aéreo No. 720, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.9,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Combustibles Tláhuac 4"
+  },
+  {
+    "Numero": "PL/4557/ES/EXP/ES/2018",
+    "Direccion": "Blvd. Puerto Aéreo No. 720, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.3,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Combustibles Tláhuac 4"
+  },
+  {
+    "Numero": "PL/4557/ES/EXP/ES/2018",
+    "Direccion": "Blvd. Puerto Aéreo No. 720, Tláhuac",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Combustibles Tláhuac 4"
+  },
+  {
+    "Numero": "PL/4603/AM/AUT/ES/2019",
+    "Direccion": "Av. México No. 664, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Estación de Servicio Tláhuac 5"
+  },
+  {
+    "Numero": "PL/4603/AM/AUT/ES/2019",
+    "Direccion": "Av. México No. 664, Tláhuac",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 11,
+    "Nombre": "Estación de Servicio Tláhuac 5"
+  },
+  {
+    "Numero": "PL/4627/AM/AUT/ES/2020",
+    "Direccion": "Av. Ermita Iztapalapa No. 480, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.78,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 1"
+  },
+  {
+    "Numero": "PL/4627/AM/AUT/ES/2020",
+    "Direccion": "Av. Ermita Iztapalapa No. 480, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.53,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 1"
+  },
+  {
+    "Numero": "PL/4627/AM/AUT/ES/2020",
+    "Direccion": "Av. Ermita Iztapalapa No. 480, Tlalpan",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.36,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 1"
+  },
+  {
+    "Numero": "PL/4693/AM/AUT/ES/2018",
+    "Direccion": "Av. Morelos No. 27, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.12,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Gasolinera Tlalpan 2"
+  },
+  {
+    "Numero": "PL/4693/AM/AUT/ES/2018",
+    "Direccion": "Av. Morelos No. 27, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.41,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Gasolinera Tlalpan 2"
+  },
+  {
+    "Numero": "PL/4693/AM/AUT/ES/2018",
+    "Direccion": "Av. Morelos No. 27, Tlalpan",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.64,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Gasolinera Tlalpan 2"
+  },
+  {
+    "Numero": "PL/4744/AM/AUT/ES/2023",
+    "Direccion": "Av. Central No. 482, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.08,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 3"
+  },
+  {
+    "Numero": "PL/4744/AM/AUT/ES/2023",
+    "Direccion": "Av. Central No. 482, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.96,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 3"
+  },
+  {
+    "Numero": "PL/4744/AM/AUT/ES/2023",
+    "Direccion": "Av. Central No. 482, Tlalpan",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 3"
+  },
+  {
+    "Numero": "PL/4759/AM/AUT/ES/2018",
+    "Direccion": "Calzada Mexico-Tacuba No. 342, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 4"
+  },
+  {
+    "Numero": "PL/4759/AM/AUT/ES/2018",
+    "Direccion": "Calzada Mexico-Tacuba No. 342, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.23,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 4"
+  },
+  {
+    "Numero": "PL/4759/AM/AUT/ES/2018",
+    "Direccion": "Calzada Mexico-Tacuba No. 342, Tlalpan",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.53,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 4"
+  },
+  {
+    "Numero": "PL/4813/ES/EXP/ES/2021",
+    "Direccion": "Periférico Sur No. 323, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.25,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 5"
+  },
+  {
+    "Numero": "PL/4813/ES/EXP/ES/2021",
+    "Direccion": "Periférico Sur No. 323, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 5"
+  },
+  {
+    "Numero": "PL/4813/ES/EXP/ES/2021",
+    "Direccion": "Periférico Sur No. 323, Tlalpan",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 5"
+  },
+  {
+    "Numero": "PL/4881/AM/AUT/ES/2023",
+    "Direccion": "Av. Universidad No. 193, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.67,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 6"
+  },
+  {
+    "Numero": "PL/4881/AM/AUT/ES/2023",
+    "Direccion": "Av. Universidad No. 193, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.33,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "PEMEX Tlalpan 6"
+  },
+  {
+    "Numero": "PL/4943/ES/EXP/ES/2020",
+    "Direccion": "Av. Tláhuac No. 902, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.97,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 7"
+  },
+  {
+    "Numero": "PL/4943/ES/EXP/ES/2020",
+    "Direccion": "Av. Tláhuac No. 902, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.88,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 7"
+  },
+  {
+    "Numero": "PL/4989/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 566, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.93,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 8"
+  },
+  {
+    "Numero": "PL/4989/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 566, Tlalpan",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.3,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 8"
+  },
+  {
+    "Numero": "PL/4989/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 566, Tlalpan",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.55,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 12,
+    "Nombre": "Combustibles Tlalpan 8"
+  },
+  {
+    "Numero": "PL/5069/AM/AUT/ES/2019",
+    "Direccion": "Av. Juárez No. 426, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.17,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 1"
+  },
+  {
+    "Numero": "PL/5069/AM/AUT/ES/2019",
+    "Direccion": "Av. Juárez No. 426, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.0,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 1"
+  },
+  {
+    "Numero": "PL/5069/AM/AUT/ES/2019",
+    "Direccion": "Av. Juárez No. 426, Xochimilco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.59,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 1"
+  },
+  {
+    "Numero": "PL/5116/ES/EXP/ES/2022",
+    "Direccion": "Av. Juárez No. 792, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.28,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 2"
+  },
+  {
+    "Numero": "PL/5116/ES/EXP/ES/2022",
+    "Direccion": "Av. Juárez No. 792, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.68,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 2"
+  },
+  {
+    "Numero": "PL/5134/AM/AUT/ES/2023",
+    "Direccion": "Calzada Ignacio Zaragoza No. 458, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.28,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 3"
+  },
+  {
+    "Numero": "PL/5134/AM/AUT/ES/2023",
+    "Direccion": "Calzada Ignacio Zaragoza No. 458, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 3"
+  },
+  {
+    "Numero": "PL/5134/AM/AUT/ES/2023",
+    "Direccion": "Calzada Ignacio Zaragoza No. 458, Xochimilco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 3"
+  },
+  {
+    "Numero": "PL/5206/ES/EXP/ES/2019",
+    "Direccion": "Av. México No. 877, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 4"
+  },
+  {
+    "Numero": "PL/5206/ES/EXP/ES/2019",
+    "Direccion": "Av. México No. 877, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.92,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 4"
+  },
+  {
+    "Numero": "PL/5206/ES/EXP/ES/2019",
+    "Direccion": "Av. México No. 877, Xochimilco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.75,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 4"
+  },
+  {
+    "Numero": "PL/5265/ES/EXP/ES/2023",
+    "Direccion": "Calzada de Tlalpan No. 130, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.02,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "PEMEX Xochimilco 5"
+  },
+  {
+    "Numero": "PL/5265/ES/EXP/ES/2023",
+    "Direccion": "Calzada de Tlalpan No. 130, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.68,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "PEMEX Xochimilco 5"
+  },
+  {
+    "Numero": "PL/5265/ES/EXP/ES/2023",
+    "Direccion": "Calzada de Tlalpan No. 130, Xochimilco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.98,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "PEMEX Xochimilco 5"
+  },
+  {
+    "Numero": "PL/5338/ES/EXP/ES/2023",
+    "Direccion": "Calzada Ignacio Zaragoza No. 77, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.89,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 6"
+  },
+  {
+    "Numero": "PL/5338/ES/EXP/ES/2023",
+    "Direccion": "Calzada Ignacio Zaragoza No. 77, Xochimilco",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.82,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 6"
+  },
+  {
+    "Numero": "PL/5338/ES/EXP/ES/2023",
+    "Direccion": "Calzada Ignacio Zaragoza No. 77, Xochimilco",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.47,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 13,
+    "Nombre": "Combustibles Xochimilco 6"
+  },
+  {
+    "Numero": "PL/5400/AM/AUT/ES/2020",
+    "Direccion": "Calzada Acoxpa No. 894, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.66,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Gasolinera Benito Juárez 1"
+  },
+  {
+    "Numero": "PL/5400/AM/AUT/ES/2020",
+    "Direccion": "Calzada Acoxpa No. 894, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.69,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Gasolinera Benito Juárez 1"
+  },
+  {
+    "Numero": "PL/5450/ES/EXP/ES/2019",
+    "Direccion": "Av. Tasqueña No. 779, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.42,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Gasolinera Benito Juárez 2"
+  },
+  {
+    "Numero": "PL/5450/ES/EXP/ES/2019",
+    "Direccion": "Av. Tasqueña No. 779, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.78,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Gasolinera Benito Juárez 2"
+  },
+  {
+    "Numero": "PL/5515/AM/AUT/ES/2018",
+    "Direccion": "Calle Palmas No. 442, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.14,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Estación de Servicio Benito Juárez 3"
+  },
+  {
+    "Numero": "PL/5515/AM/AUT/ES/2018",
+    "Direccion": "Calle Palmas No. 442, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Estación de Servicio Benito Juárez 3"
+  },
+  {
+    "Numero": "PL/5570/ES/EXP/ES/2019",
+    "Direccion": "Av. Hidalgo No. 510, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.13,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Estación de Servicio Benito Juárez 4"
+  },
+  {
+    "Numero": "PL/5570/ES/EXP/ES/2019",
+    "Direccion": "Av. Hidalgo No. 510, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.82,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Estación de Servicio Benito Juárez 4"
+  },
+  {
+    "Numero": "PL/5570/ES/EXP/ES/2019",
+    "Direccion": "Av. Hidalgo No. 510, Benito Juárez",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.53,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Estación de Servicio Benito Juárez 4"
+  },
+  {
+    "Numero": "PL/5628/AM/AUT/ES/2021",
+    "Direccion": "Av. Oceanía No. 76, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.12,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 5"
+  },
+  {
+    "Numero": "PL/5628/AM/AUT/ES/2021",
+    "Direccion": "Av. Oceanía No. 76, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.57,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 5"
+  },
+  {
+    "Numero": "PL/5628/AM/AUT/ES/2021",
+    "Direccion": "Av. Oceanía No. 76, Benito Juárez",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 25.31,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 5"
+  },
+  {
+    "Numero": "PL/5707/AM/AUT/ES/2021",
+    "Direccion": "Av. Patriotismo No. 874, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.95,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 6"
+  },
+  {
+    "Numero": "PL/5707/AM/AUT/ES/2021",
+    "Direccion": "Av. Patriotismo No. 874, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.49,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 6"
+  },
+  {
+    "Numero": "PL/5742/AM/AUT/ES/2023",
+    "Direccion": "Av. Observatorio No. 282, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.59,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Gasolinera Benito Juárez 7"
+  },
+  {
+    "Numero": "PL/5742/AM/AUT/ES/2023",
+    "Direccion": "Av. Observatorio No. 282, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.71,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Gasolinera Benito Juárez 7"
+  },
+  {
+    "Numero": "PL/5754/AM/AUT/ES/2022",
+    "Direccion": "Av. México No. 622, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.11,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "PEMEX Benito Juárez 8"
+  },
+  {
+    "Numero": "PL/5754/AM/AUT/ES/2022",
+    "Direccion": "Av. México No. 622, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.49,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "PEMEX Benito Juárez 8"
+  },
+  {
+    "Numero": "PL/5754/AM/AUT/ES/2022",
+    "Direccion": "Av. México No. 622, Benito Juárez",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.38,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "PEMEX Benito Juárez 8"
+  },
+  {
+    "Numero": "PL/5800/ES/EXP/ES/2023",
+    "Direccion": "Calzada de Tlalpan No. 317, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.85,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 9"
+  },
+  {
+    "Numero": "PL/5800/ES/EXP/ES/2023",
+    "Direccion": "Calzada de Tlalpan No. 317, Benito Juárez",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.05,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 9"
+  },
+  {
+    "Numero": "PL/5800/ES/EXP/ES/2023",
+    "Direccion": "Calzada de Tlalpan No. 317, Benito Juárez",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.68,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 14,
+    "Nombre": "Combustibles Benito Juárez 9"
+  },
+  {
+    "Numero": "PL/5822/ES/EXP/ES/2021",
+    "Direccion": "Av. Canal de Garay No. 806, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.54,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 1"
+  },
+  {
+    "Numero": "PL/5822/ES/EXP/ES/2021",
+    "Direccion": "Av. Canal de Garay No. 806, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.79,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 1"
+  },
+  {
+    "Numero": "PL/5857/AM/AUT/ES/2021",
+    "Direccion": "Av. Ermita Iztapalapa No. 480, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.0,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Gasolinera Cuauhtémoc 2"
+  },
+  {
+    "Numero": "PL/5857/AM/AUT/ES/2021",
+    "Direccion": "Av. Ermita Iztapalapa No. 480, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.29,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Gasolinera Cuauhtémoc 2"
+  },
+  {
+    "Numero": "PL/5857/AM/AUT/ES/2021",
+    "Direccion": "Av. Ermita Iztapalapa No. 480, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.48,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Gasolinera Cuauhtémoc 2"
+  },
+  {
+    "Numero": "PL/5910/AM/AUT/ES/2022",
+    "Direccion": "Av. Observatorio No. 15, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.55,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 3"
+  },
+  {
+    "Numero": "PL/5910/AM/AUT/ES/2022",
+    "Direccion": "Av. Observatorio No. 15, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.56,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 3"
+  },
+  {
+    "Numero": "PL/5910/AM/AUT/ES/2022",
+    "Direccion": "Av. Observatorio No. 15, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.63,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 3"
+  },
+  {
+    "Numero": "PL/5931/AM/AUT/ES/2023",
+    "Direccion": "Av. México No. 483, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.67,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Gasolinera Cuauhtémoc 4"
+  },
+  {
+    "Numero": "PL/5931/AM/AUT/ES/2023",
+    "Direccion": "Av. México No. 483, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Gasolinera Cuauhtémoc 4"
+  },
+  {
+    "Numero": "PL/5931/AM/AUT/ES/2023",
+    "Direccion": "Av. México No. 483, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.82,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Gasolinera Cuauhtémoc 4"
+  },
+  {
+    "Numero": "PL/5954/AM/AUT/ES/2023",
+    "Direccion": "Calzada Mexico-Tacuba No. 120, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 5"
+  },
+  {
+    "Numero": "PL/5954/AM/AUT/ES/2023",
+    "Direccion": "Calzada Mexico-Tacuba No. 120, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.48,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 5"
+  },
+  {
+    "Numero": "PL/6002/ES/EXP/ES/2019",
+    "Direccion": "Periférico Oriente No. 380, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.62,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Combustibles Cuauhtémoc 6"
+  },
+  {
+    "Numero": "PL/6002/ES/EXP/ES/2019",
+    "Direccion": "Periférico Oriente No. 380, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.95,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Combustibles Cuauhtémoc 6"
+  },
+  {
+    "Numero": "PL/6002/ES/EXP/ES/2019",
+    "Direccion": "Periférico Oriente No. 380, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.95,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Combustibles Cuauhtémoc 6"
+  },
+  {
+    "Numero": "PL/6061/AM/AUT/ES/2022",
+    "Direccion": "Calzada de Tlalpan No. 707, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 7"
+  },
+  {
+    "Numero": "PL/6061/AM/AUT/ES/2022",
+    "Direccion": "Calzada de Tlalpan No. 707, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.45,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 7"
+  },
+  {
+    "Numero": "PL/6061/AM/AUT/ES/2022",
+    "Direccion": "Calzada de Tlalpan No. 707, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.58,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "PEMEX Cuauhtémoc 7"
+  },
+  {
+    "Numero": "PL/6106/AM/AUT/ES/2020",
+    "Direccion": "Av. Observatorio No. 283, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 8"
+  },
+  {
+    "Numero": "PL/6106/AM/AUT/ES/2020",
+    "Direccion": "Av. Observatorio No. 283, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.4,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 8"
+  },
+  {
+    "Numero": "PL/6123/ES/EXP/ES/2019",
+    "Direccion": "Av. División del Norte No. 250, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.9,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 9"
+  },
+  {
+    "Numero": "PL/6123/ES/EXP/ES/2019",
+    "Direccion": "Av. División del Norte No. 250, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.14,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 9"
+  },
+  {
+    "Numero": "PL/6123/ES/EXP/ES/2019",
+    "Direccion": "Av. División del Norte No. 250, Cuauhtémoc",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 9"
+  },
+  {
+    "Numero": "PL/6139/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 284, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 24.18,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 10"
+  },
+  {
+    "Numero": "PL/6139/AM/AUT/ES/2019",
+    "Direccion": "Av. Insurgentes No. 284, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.38,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 10"
+  },
+  {
+    "Numero": "PL/6167/ES/EXP/ES/2018",
+    "Direccion": "Av. Río Mixcoac No. 809, Cuauhtémoc",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.62,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 15,
+    "Nombre": "Estación de Servicio Cuauhtémoc 11"
+  },
+  {
+    "Numero": "PL/6178/AM/AUT/ES/2019",
+    "Direccion": "Av. Ermita Iztapalapa No. 764, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.47,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 1"
+  },
+  {
+    "Numero": "PL/6178/AM/AUT/ES/2019",
+    "Direccion": "Av. Ermita Iztapalapa No. 764, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.24,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 1"
+  },
+  {
+    "Numero": "PL/6255/ES/EXP/ES/2022",
+    "Direccion": "Calzada de la Viga No. 470, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.89,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 2"
+  },
+  {
+    "Numero": "PL/6255/ES/EXP/ES/2022",
+    "Direccion": "Calzada de la Viga No. 470, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.49,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 2"
+  },
+  {
+    "Numero": "PL/6255/ES/EXP/ES/2022",
+    "Direccion": "Calzada de la Viga No. 470, Miguel Hidalgo",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.88,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 2"
+  },
+  {
+    "Numero": "PL/6270/ES/EXP/ES/2021",
+    "Direccion": "Av. San Antonio No. 623, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.89,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Estación de Servicio Miguel Hidalgo 3"
+  },
+  {
+    "Numero": "PL/6270/ES/EXP/ES/2021",
+    "Direccion": "Av. San Antonio No. 623, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.84,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Estación de Servicio Miguel Hidalgo 3"
+  },
+  {
+    "Numero": "PL/6270/ES/EXP/ES/2021",
+    "Direccion": "Av. San Antonio No. 623, Miguel Hidalgo",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.72,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Estación de Servicio Miguel Hidalgo 3"
+  },
+  {
+    "Numero": "PL/6290/AM/AUT/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 102, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.99,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 4"
+  },
+  {
+    "Numero": "PL/6290/AM/AUT/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 102, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.14,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 4"
+  },
+  {
+    "Numero": "PL/6290/AM/AUT/ES/2022",
+    "Direccion": "Av. Lago Xochimilco No. 102, Miguel Hidalgo",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.71,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 4"
+  },
+  {
+    "Numero": "PL/6358/ES/EXP/ES/2021",
+    "Direccion": "Av. División del Norte No. 848, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.36,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Combustibles Miguel Hidalgo 5"
+  },
+  {
+    "Numero": "PL/6358/ES/EXP/ES/2021",
+    "Direccion": "Av. División del Norte No. 848, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.83,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Combustibles Miguel Hidalgo 5"
+  },
+  {
+    "Numero": "PL/6420/AM/AUT/ES/2020",
+    "Direccion": "Av. Gran Canal No. 69, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.96,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 6"
+  },
+  {
+    "Numero": "PL/6449/AM/AUT/ES/2023",
+    "Direccion": "Av. Universidad No. 601, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.74,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 7"
+  },
+  {
+    "Numero": "PL/6449/AM/AUT/ES/2023",
+    "Direccion": "Av. Universidad No. 601, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 27.05,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 7"
+  },
+  {
+    "Numero": "PL/6449/AM/AUT/ES/2023",
+    "Direccion": "Av. Universidad No. 601, Miguel Hidalgo",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.66,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 7"
+  },
+  {
+    "Numero": "PL/6475/ES/EXP/ES/2023",
+    "Direccion": "Calzada de la Viga No. 361, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.61,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 8"
+  },
+  {
+    "Numero": "PL/6475/ES/EXP/ES/2023",
+    "Direccion": "Calzada de la Viga No. 361, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.6,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "Gasolinera Miguel Hidalgo 8"
+  },
+  {
+    "Numero": "PL/6521/AM/AUT/ES/2018",
+    "Direccion": "Av. Ermita Iztapalapa No. 781, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.6,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 9"
+  },
+  {
+    "Numero": "PL/6521/AM/AUT/ES/2018",
+    "Direccion": "Av. Ermita Iztapalapa No. 781, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.87,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 9"
+  },
+  {
+    "Numero": "PL/6521/AM/AUT/ES/2018",
+    "Direccion": "Av. Ermita Iztapalapa No. 781, Miguel Hidalgo",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.92,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 9"
+  },
+  {
+    "Numero": "PL/6578/ES/EXP/ES/2022",
+    "Direccion": "Av. Revolución No. 185, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.78,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 10"
+  },
+  {
+    "Numero": "PL/6578/ES/EXP/ES/2022",
+    "Direccion": "Av. Revolución No. 185, Miguel Hidalgo",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.29,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 16,
+    "Nombre": "PEMEX Miguel Hidalgo 10"
+  },
+  {
+    "Numero": "PL/6622/AM/AUT/ES/2019",
+    "Direccion": "Calzada Ignacio Zaragoza No. 759, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.93,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 1"
+  },
+  {
+    "Numero": "PL/6622/AM/AUT/ES/2019",
+    "Direccion": "Calzada Ignacio Zaragoza No. 759, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.49,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 1"
+  },
+  {
+    "Numero": "PL/6622/AM/AUT/ES/2019",
+    "Direccion": "Calzada Ignacio Zaragoza No. 759, Venustiano Carranza",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 23.59,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 1"
+  },
+  {
+    "Numero": "PL/6640/AM/AUT/ES/2020",
+    "Direccion": "Av. Universidad No. 160, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.86,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Estación de Servicio Venustiano Carranza 2"
+  },
+  {
+    "Numero": "PL/6660/AM/AUT/ES/2021",
+    "Direccion": "Av. Tláhuac No. 425, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.1,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "PEMEX Venustiano Carranza 3"
+  },
+  {
+    "Numero": "PL/6660/AM/AUT/ES/2021",
+    "Direccion": "Av. Tláhuac No. 425, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.62,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "PEMEX Venustiano Carranza 3"
+  },
+  {
+    "Numero": "PL/6732/AM/AUT/ES/2023",
+    "Direccion": "Calzada de la Viga No. 47, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.35,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Estación de Servicio Venustiano Carranza 4"
+  },
+  {
+    "Numero": "PL/6732/AM/AUT/ES/2023",
+    "Direccion": "Calzada de la Viga No. 47, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.36,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Estación de Servicio Venustiano Carranza 4"
+  },
+  {
+    "Numero": "PL/6809/ES/EXP/ES/2019",
+    "Direccion": "Blvd. Puerto Aéreo No. 336, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.81,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 5"
+  },
+  {
+    "Numero": "PL/6809/ES/EXP/ES/2019",
+    "Direccion": "Blvd. Puerto Aéreo No. 336, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.07,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 5"
+  },
+  {
+    "Numero": "PL/6809/ES/EXP/ES/2019",
+    "Direccion": "Blvd. Puerto Aéreo No. 336, Venustiano Carranza",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.01,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 5"
+  },
+  {
+    "Numero": "PL/6851/AM/AUT/ES/2022",
+    "Direccion": "Av. Observatorio No. 883, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 23.41,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 6"
+  },
+  {
+    "Numero": "PL/6851/AM/AUT/ES/2022",
+    "Direccion": "Av. Observatorio No. 883, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 25.53,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Gasolinera Venustiano Carranza 6"
+  },
+  {
+    "Numero": "PL/6870/AM/AUT/ES/2021",
+    "Direccion": "Blvd. Puerto Aéreo No. 118, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Regular",
+    "PrecioVigente": 22.83,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Combustibles Venustiano Carranza 7"
+  },
+  {
+    "Numero": "PL/6870/AM/AUT/ES/2021",
+    "Direccion": "Blvd. Puerto Aéreo No. 118, Venustiano Carranza",
+    "Producto": "Gasolinas y Gasavión",
+    "SubProducto": "Magna Premium",
+    "PrecioVigente": 26.03,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Combustibles Venustiano Carranza 7"
+  },
+  {
+    "Numero": "PL/6870/AM/AUT/ES/2021",
+    "Direccion": "Blvd. Puerto Aéreo No. 118, Venustiano Carranza",
+    "Producto": "Diésel",
+    "SubProducto": "Diésel Automotriz",
+    "PrecioVigente": 24.16,
+    "EntidadFederativaId": 9,
+    "MunicipioId": 17,
+    "Nombre": "Combustibles Venustiano Carranza 7"
+  }
+]
