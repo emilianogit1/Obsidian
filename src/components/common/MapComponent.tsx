@@ -37,6 +37,7 @@ export default function MapComponent({ featured, stations }: MapComponentProps) 
 
   return (
     <MapContainer
+      key="map-container"
       center={[19.43, -99.13]}
       zoom={11}
       style={{ height: "100%", width: "100%" }}
