@@ -22,7 +22,7 @@ interface StationModalProps {
 export function StationModal({ station, open, onOpenChange }: StationModalProps) {
   if (!station) return null;
 
-  const mapsUrl = buildGoogleMapsUrl(station.address);
+  const mapsUrl = buildGoogleMapsUrl(station.lat, station.lng);
 
   const fuelTypes = (["magna", "premium", "diesel"] as const).filter(
     (f) => station.prices[f]

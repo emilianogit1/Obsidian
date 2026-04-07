@@ -68,18 +68,21 @@ export function getFuelLabel(type: FuelType): string {
 
 export function getFuelColor(type: FuelType): string {
   const colors: Record<FuelType, string> = {
-    magna: "text-green-700 dark:text-green-400",
-    premium: "text-amber-700 dark:text-amber-400",
-    diesel: "text-blue-700 dark:text-blue-400",
+    // Magna: PEMEX green — vivid in light, softer in dark
+    magna:   "text-green-700 dark:text-green-400",
+    // Premium: PEMEX red — vivid in light, softer in dark
+    premium: "text-red-700 dark:text-red-400",
+    // Diésel: charcoal — legible in both modes
+    diesel:  "text-slate-800 dark:text-slate-200",
   };
   return colors[type];
 }
 
 export function getFuelBg(type: FuelType): string {
   const bgs: Record<FuelType, string> = {
-    magna: "bg-green-50 dark:bg-green-950/40 border-green-200 dark:border-green-800",
-    premium: "bg-amber-50 dark:bg-amber-950/40 border-amber-200 dark:border-amber-800",
-    diesel: "bg-blue-50 dark:bg-blue-950/40 border-blue-200 dark:border-blue-800",
+    magna:   "bg-green-50  dark:bg-green-950/40  border-green-200  dark:border-green-800",
+    premium: "bg-red-50    dark:bg-red-950/40    border-red-200    dark:border-red-800",
+    diesel:  "bg-slate-100 dark:bg-slate-700/40  border-slate-300  dark:border-slate-600",
   };
   return bgs[type];
 }
@@ -109,7 +112,10 @@ export function formatDate(date: Date): string {
   });
 }
 
-export function buildGoogleMapsUrl(address: string): string {
-  const query = encodeURIComponent(`${address}, Ciudad de México`);
-  return `https://www.google.com/maps/search/?api=1&query=${query}`;
+/**
+ * Opens Google Maps directions to the station's exact coordinates.
+ * Using lat/lng is far more reliable than a text address search.
+ */
+export function buildGoogleMapsUrl(lat: number, lng: number): string {
+  return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
 }
