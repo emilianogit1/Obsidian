@@ -66,22 +66,19 @@ export function getFuelLabel(type: FuelType): string {
   return labels[type];
 }
 
-export function getFuelColor(type: FuelType): string {
-  const colors: Record<FuelType, string> = {
-    magna: "text-green-700 dark:text-green-400",
-    premium: "text-amber-700 dark:text-amber-400",
-    diesel: "text-blue-700 dark:text-blue-400",
-  };
-  return colors[type];
+export function getFuelColor(_type: string): string {
+  // Con fondos oscuros, siempre queremos que el texto sea blanco
+  return "text-white";
 }
 
-export function getFuelBg(type: FuelType): string {
-  const bgs: Record<FuelType, string> = {
-    magna: "bg-green-50 dark:bg-green-950/40 border-green-200 dark:border-green-800",
-    premium: "bg-amber-50 dark:bg-amber-950/40 border-amber-200 dark:border-amber-800",
-    diesel: "bg-blue-50 dark:bg-blue-950/40 border-blue-200 dark:border-blue-800",
+export function getFuelBg(type: string): string {
+  const bgs: Record<string, string> = {
+    magna:   "bg-emerald-600 dark:bg-emerald-500 border-transparent",
+    premium: "bg-rose-500    dark:bg-rose-400    border-transparent",
+    diesel:  "bg-slate-800   dark:bg-slate-700   border-transparent",
   };
-  return bgs[type];
+  // Si no encuentra el tipo, devuelve un gris suave
+  return bgs[type.toLowerCase()] || "bg-slate-500";
 }
 
 /**

@@ -1,97 +1,90 @@
 "use client";
 
-import { useEffect } from "react";
-import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup, Tooltip } from "react-leaflet";
 import L from "leaflet";
-import { formatPrice } from "@/utils/formatters";
-import type { Station } from "@/types";
+import "leaflet/dist/leaflet.css";
+import { useEffect, useState } from "react";
 
-// Fix Leaflet icon via CDN to avoid webpack asset issue
-const redIcon = new L.Icon({
-  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
-  shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png",
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41],
-});
-
-const blueIcon = new L.Icon({
-  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png",
-  shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png",
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41],
-});
-
-interface MapComponentProps {
-  featured: Station;
-  stations: Station[];
+// Iconos con colores invertidos según tu petición
+function createCircleIcon(color: string, size = 14) {
+  return L.divIcon({
+    className: "", 
+    html: `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+             <circle cx="${size / 2}" cy="${size / 2}" r="${size / 2 - 1}" fill="${color}" stroke="white" stroke-width="2"/>
+           </svg>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+  });
 }
 
-export default function MapComponent({ featured, stations }: MapComponentProps) {
+const blueIcon = createCircleIcon("#1F78B4", 18); // Destacada ahora en Azul y más grande
+const redIcon = createCircleIcon("#E31A1C", 12);  // Demás estaciones en Rojo
+
+export default function MapComponent({ stations = [], featuredStation = null }: any) {
+  const [mounted, setMounted] = useState(false);
+
   useEffect(() => {
-    // Import leaflet CSS dynamically (client only)
+    setMounted(true);
   }, []);
 
+  if (!mounted) return <div className="h-full w-full bg-slate-100 animate-pulse" />;
+
   return (
-    <MapContainer
-      center={[19.43, -99.13]}
-      zoom={11}
-      style={{ height: "100%", width: "100%" }}
-      className="rounded-lg"
-    >
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
+    <div className="relative h-full w-full">
+      <MapContainer 
+        center={[19.4326, -99.1332]} 
+        zoom={12} 
+        style={{ height: "100%", width: "100%" }}
+        className="rounded-lg overflow-hidden"
+      >
+        <TileLayer
+          attribution='&copy; OpenStreetMap'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        />
 
-      {/* Featured station — red marker */}
-      <Marker position={[featured.lat, featured.lng]} icon={redIcon}>
-        <Popup>
-          <div className="text-xs space-y-1">
-            <p className="font-bold text-sm">{featured.name}</p>
-            <p className="text-gray-600">{featured.address}</p>
-            {featured.prices.magna && (
-              <p>🟢 Magna: <strong>{formatPrice(featured.prices.magna.price)}</strong></p>
-            )}
-            {featured.prices.premium && (
-              <p>🟡 Premium: <strong>{formatPrice(featured.prices.premium.price)}</strong></p>
-            )}
-            {featured.prices.diesel && (
-              <p>🔵 Diésel: <strong>{formatPrice(featured.prices.diesel.price)}</strong></p>
-            )}
-          </div>
-        </Popup>
-      </Marker>
-
-      {/* All other stations — blue markers */}
-      {stations
-        .filter((s) => s.id !== featured.id)
-        .map((station) => (
-          <Marker
-            key={station.id}
-            position={[station.lat, station.lng]}
-            icon={blueIcon}
-          >
+        {/* Estación Destacada - AHORA EN AZUL */}
+        {featuredStation && (
+          <Marker position={[featuredStation.lat, featuredStation.lng]} icon={blueIcon}>
+            <Tooltip permanent direction="top" offset={[0, -10]}>
+              <span className="font-bold text-blue-700">⭐ {featuredStation.name}</span>
+            </Tooltip>
             <Popup>
-              <div className="text-xs space-y-1">
+              <div className="text-sm">
+                <p className="font-bold">{featuredStation.name}</p>
+                <p>{featuredStation.address}</p>
+              </div>
+            </Popup>
+          </Marker>
+        )}
+
+        {/* Todas las demás estaciones - AHORA EN ROJO */}
+        {stations.map((station: any) => (
+          <Marker key={station.id} position={[station.lat, station.lng]} icon={redIcon}>
+            <Tooltip direction="top" offset={[0, -5]}>
+              <span className="text-xs font-medium">{station.name}</span>
+            </Tooltip>
+            <Popup>
+              <div className="text-xs">
                 <p className="font-bold">{station.name}</p>
-                <p className="text-gray-500">{station.municipioName}</p>
-                {station.prices.magna && (
-                  <p>🟢 {formatPrice(station.prices.magna.price)}</p>
-                )}
-                {station.prices.premium && (
-                  <p>🟡 {formatPrice(station.prices.premium.price)}</p>
-                )}
-                {station.prices.diesel && (
-                  <p>🔵 {formatPrice(station.prices.diesel.price)}</p>
-                )}
+                <p className="text-green-600">Magna: ${station.prices.magna?.price}</p>
               </div>
             </Popup>
           </Marker>
         ))}
-    </MapContainer>
+      </MapContainer>
+
+      {/* LEYENDA ACTUALIZADA */}
+      <div className="absolute bottom-5 left-5 z-[1000] rounded-xl border border-white/20 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-md px-4 py-3 text-xs shadow-xl space-y-2">
+        <p className="font-bold text-gray-800 dark:text-gray-100 border-b border-gray-200 dark:border-gray-700 pb-1 mb-2">Gasolineras CDMX</p>
+        <div className="flex items-center gap-3">
+          <div className="w-4 h-4 rounded-full bg-[#1F78B4] border-2 border-white shadow-sm" />
+          <span className="text-gray-700 dark:text-gray-300 font-medium">Estación Destacada</span>
+        </div>
+        <div className="flex items-center gap-3">
+          <div className="w-3 h-3 rounded-full bg-[#E31A1C] border-2 border-white shadow-sm" />
+          <span className="text-gray-600 dark:text-gray-400">Otras Estaciones</span>
+        </div>
+      </div>
+    </div>
   );
 }
