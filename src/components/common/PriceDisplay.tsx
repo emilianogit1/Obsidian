@@ -49,7 +49,7 @@ export function PriceDisplay({ type, info, size = "md", className }: PriceDispla
         {formatPrice(info.price)}
       </span>
       {size !== "sm" && (
-        <span className="text-[10px] text-muted-foreground mt-0.5">
+        <span className="text-[10px] text-white/70 mt-0.5">
           {info.subproduct}
         </span>
       )}

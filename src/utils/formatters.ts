@@ -66,23 +66,17 @@ export function getFuelLabel(type: FuelType): string {
   return labels[type];
 }
 
-export function getFuelColor(type: FuelType): string {
-  const colors: Record<FuelType, string> = {
-    // Magna: PEMEX green — vivid in light, softer in dark
-    magna:   "text-green-700 dark:text-green-400",
-    // Premium: PEMEX red — vivid in light, softer in dark
-    premium: "text-red-700 dark:text-red-400",
-    // Diésel: charcoal — legible in both modes
-    diesel:  "text-slate-800 dark:text-slate-200",
-  };
-  return colors[type];
+// With solid-color backgrounds all text is white — single source of truth
+export function getFuelColor(_type: FuelType): string {
+  return "text-white";
 }
 
 export function getFuelBg(type: FuelType): string {
   const bgs: Record<FuelType, string> = {
-    magna:   "bg-green-50  dark:bg-green-950/40  border-green-200  dark:border-green-800",
-    premium: "bg-red-50    dark:bg-red-950/40    border-red-200    dark:border-red-800",
-    diesel:  "bg-slate-100 dark:bg-slate-700/40  border-slate-300  dark:border-slate-600",
+    // Solid backgrounds; dark variants are one step lighter for brightness balance
+    magna:   "bg-emerald-600 dark:bg-emerald-500 border-transparent",
+    premium: "bg-rose-500    dark:bg-rose-400    border-transparent",
+    diesel:  "bg-slate-800   dark:bg-slate-700   border-transparent",
   };
   return bgs[type];
 }
