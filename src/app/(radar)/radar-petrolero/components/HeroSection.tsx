@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Clock, MapPin, RefreshCw, Map as MapIcon } from "lucide-react";
+import { Clock, MapPin, Map as MapIcon } from "lucide-react"; // Quité RefreshCw ya que no lo usaremos
 import { formatDate } from "@/utils/formatters";
 import { PriceDisplay } from "@/components/common/PriceDisplay";
 
@@ -12,13 +12,11 @@ export function HeroSection({ featured, lastUpdated }: any) {
     setMounted(true);
   }, []);
 
-  // Función para bajar al mapa suavemente
   const scrollToMap = () => {
     const mapElement = document.getElementById("mapa-seccion");
     if (mapElement) {
       mapElement.scrollIntoView({ behavior: "smooth" });
     } else {
-      // Si no encuentra el ID, baja al final de la página donde suele estar el mapa
       window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
     }
   };
@@ -45,19 +43,10 @@ export function HeroSection({ featured, lastUpdated }: any) {
             </p>
             
             <div className="flex flex-wrap gap-4">
-              {/* BOTÓN ACTUALIZAR: Ahora sí recarga la página */}
-              <button 
-                onClick={() => window.location.reload()}
-                className="flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-3 rounded-2xl font-bold transition-all shadow-lg"
-              >
-                <RefreshCw className="h-4 w-4" />
-                Actualizar Precios
-              </button>
-              
-              {/* BOTÓN MAPA: Ahora busca el mapa por su nombre */}
+              {/* Botón Mapa: Ahora es el botón principal (Verde) */}
               <button 
                 onClick={scrollToMap}
-                className="flex items-center gap-2 bg-white dark:bg-zinc-900 border border-slate-200 dark:border-zinc-700 px-6 py-3 rounded-2xl font-bold hover:bg-slate-50 transition-all"
+                className="flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-3 rounded-2xl font-bold transition-all shadow-lg shadow-emerald-200 dark:shadow-none"
               >
                 <MapIcon className="h-4 w-4" />
                 Ver en el mapa
