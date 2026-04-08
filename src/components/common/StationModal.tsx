@@ -7,7 +7,6 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { PriceDisplay } from "./PriceDisplay";
 import { buildGoogleMapsUrl } from "@/utils/formatters";
@@ -79,18 +78,16 @@ export function StationModal({ station, open, onOpenChange }: StationModalProps)
 
           {/* CTA */}
           <div className="flex gap-2 pt-1">
-            <Button asChild className="flex-1">
-              <a
-                href={mapsUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2"
-              >
-                <MapPin className="h-4 w-4" />
-                Cómo llegar
-                <ExternalLink className="h-3 w-3 opacity-70" />
-              </a>
-            </Button>
+            <a
+              href={mapsUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 inline-flex items-center justify-center gap-2 h-9 rounded-md bg-emerald-600 hover:bg-emerald-700 px-4 text-sm font-medium text-white shadow transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500"
+            >
+              <MapPin className="h-4 w-4" />
+              Cómo llegar
+              <ExternalLink className="h-3 w-3 opacity-80" />
+            </a>
           </div>
         </div>
       </DialogContent>
