@@ -5,23 +5,33 @@ import { Clock, MapPin, RefreshCw, Map as MapIcon } from "lucide-react";
 import { formatDate } from "@/utils/formatters";
 import { PriceDisplay } from "@/components/common/PriceDisplay";
 
-export function HeroSection({ featured, lastUpdated, onRefresh, onOpenMap }: any) {
-  // 1. Parche para el error de "Hydration Mismatch" (la pelea del reloj)
+export function HeroSection({ featured, lastUpdated }: any) {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
     setMounted(true);
   }, []);
 
+  // Función para bajar al mapa suavemente
+  const scrollToMap = () => {
+    const mapElement = document.getElementById("mapa-seccion");
+    if (mapElement) {
+      mapElement.scrollIntoView({ behavior: "smooth" });
+    } else {
+      // Si no encuentra el ID, baja al final de la página donde suele estar el mapa
+      window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+    }
+  };
+
   return (
     <section className="relative overflow-hidden bg-slate-50 py-12 dark:bg-zinc-950 border-b border-slate-200 dark:border-zinc-800">
       <div className="container relative z-10 mx-auto px-4">
         
-        {/* Reloj de actualización con seguro anti-errores */}
+        {/* Reloj */}
         <div className="flex items-center gap-1.5 text-xs text-muted-foreground mb-6 bg-white/50 dark:bg-white/5 w-fit px-3 py-1 rounded-full border border-slate-200 dark:border-zinc-700">
           <Clock className="h-3.5 w-3.5 text-emerald-600" />
           <span>
-            Última actualización: {mounted ? formatDate(lastUpdated) : "Cargando..."}
+            Última actualización: {mounted ? formatDate(lastUpdated) : "Cargando fecha..."}
           </span>
         </div>
 
@@ -35,17 +45,19 @@ export function HeroSection({ featured, lastUpdated, onRefresh, onOpenMap }: any
             </p>
             
             <div className="flex flex-wrap gap-4">
+              {/* BOTÓN ACTUALIZAR: Ahora sí recarga la página */}
               <button 
-                onClick={onRefresh}
-                className="flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-3 rounded-2xl font-bold transition-all shadow-lg shadow-emerald-200 dark:shadow-none"
+                onClick={() => window.location.reload()}
+                className="flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-3 rounded-2xl font-bold transition-all shadow-lg"
               >
                 <RefreshCw className="h-4 w-4" />
                 Actualizar Precios
               </button>
               
+              {/* BOTÓN MAPA: Ahora busca el mapa por su nombre */}
               <button 
-                onClick={onOpenMap}
-                className="flex items-center gap-2 bg-white dark:bg-zinc-900 border border-slate-200 dark:border-zinc-700 px-6 py-3 rounded-2xl font-bold hover:bg-slate-50 dark:hover:bg-zinc-800 transition-all"
+                onClick={scrollToMap}
+                className="flex items-center gap-2 bg-white dark:bg-zinc-900 border border-slate-200 dark:border-zinc-700 px-6 py-3 rounded-2xl font-bold hover:bg-slate-50 transition-all"
               >
                 <MapIcon className="h-4 w-4" />
                 Ver en el mapa
@@ -53,14 +65,14 @@ export function HeroSection({ featured, lastUpdated, onRefresh, onOpenMap }: any
             </div>
           </div>
 
-          {/* Tarjeta de Estación Destacada (PEMEX Reforma) */}
+          {/* Tarjeta Destacada */}
           <div className="bg-white dark:bg-zinc-900 p-6 rounded-[34px] border border-slate-200 dark:border-zinc-800 shadow-xl">
             <div className="flex items-start justify-between mb-6">
               <div>
                 <span className="text-[10px] font-bold uppercase tracking-widest text-emerald-600 bg-emerald-50 dark:bg-emerald-950 px-2 py-0.5 rounded-full">
                   Estación Destacada
                 </span>
-                <h3 className="text-xl font-bold mt-2">{featured?.name || "PEMEX Reforma"}</h3>
+                <h3 className="text-xl font-bold mt-2">{featured?.name || "Cargando..."}</h3>
                 <div className="flex items-center gap-1 text-sm text-slate-500 mt-1">
                   <MapPin className="h-3.5 w-3.5" />
                   <span className="truncate max-w-[250px]">{featured?.address}</span>
@@ -71,23 +83,10 @@ export function HeroSection({ featured, lastUpdated, onRefresh, onOpenMap }: any
               </div>
             </div>
 
-            {/* Grid de precios con tus nuevos colores sólidos */}
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-              <PriceDisplay 
-                type="magna" 
-                info={featured?.prices?.magna} 
-                size="lg" 
-              />
-              <PriceDisplay 
-                type="premium" 
-                info={featured?.prices?.premium} 
-                size="lg" 
-              />
-              <PriceDisplay 
-                type="diesel" 
-                info={featured?.prices?.diesel} 
-                size="lg" 
-              />
+              <PriceDisplay type="magna" info={featured?.prices?.magna} size="lg" />
+              <PriceDisplay type="premium" info={featured?.prices?.premium} size="lg" />
+              <PriceDisplay type="diesel" info={featured?.prices?.diesel} size="lg" />
             </div>
           </div>
         </div>

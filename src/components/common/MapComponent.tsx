@@ -5,7 +5,7 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
-// Función para crear los iconos de círculo (Azul para destacada, Rojo para otras)
+// Función para crear los iconos de círculo
 function createCircleIcon(color: string, size: number, glow = false) {
   const shadow = glow ? "filter: drop-shadow(0 0 5px rgba(31, 120, 180, 0.8));" : "";
   return L.divIcon({
@@ -18,8 +18,8 @@ function createCircleIcon(color: string, size: number, glow = false) {
   });
 }
 
-const featuredIcon = createCircleIcon("#1F78B4", 20, true); // Azul con brillo
-const otherIcon    = createCircleIcon("#E31A1C", 12, false); // Rojo pequeño
+const featuredIcon = createCircleIcon("#1F78B4", 20, true); // Azul
+const otherIcon    = createCircleIcon("#E31A1C", 12, false); // Rojo
 
 export default function MapComponent({ stations, featuredStation }: any) {
   const [mounted, setMounted] = useState(false);
@@ -29,10 +29,16 @@ export default function MapComponent({ stations, featuredStation }: any) {
     setMounted(true);
   }, []);
 
-  if (!mounted) return <div className="h-full w-full bg-slate-100 animate-pulse rounded-[34px]" />;
+  if (!mounted) return <div className="h-[500px] w-full bg-slate-100 animate-pulse rounded-[34px]" />;
 
   return (
-    <div className="relative h-full w-full rounded-[34px] overflow-hidden border border-slate-200">
+    /* AQUÍ ESTÁ EL TRUCO: 
+       Le agregamos el id="mapa-seccion" y una altura fija de 500px 
+    */
+    <div 
+      id="mapa-seccion" 
+      className="relative h-[500px] w-full rounded-[34px] overflow-hidden border border-slate-200 mt-10"
+    >
       <MapContainer key={mapKey} center={[19.43, -99.13]} zoom={11} style={{ height: "100%", width: "100%" }}>
         <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
         {stations?.map((s: any) => (
